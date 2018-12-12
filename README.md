@@ -1,2 +1,2 @@
 # Project-Baseline
-Hello, user of the internet! This is my little slice of GitHub, my first repository!
+Welcome to my slice of the internet, Project Baseline. This is my testing site for web development. Have a look around!
