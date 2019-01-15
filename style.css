@@ -1,6 +1,10 @@
 * {box-sizing: border-box;}
 
-body {
+body, html {
 background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/HPOKFbR/blue-motion-business-background-with-animated-squares-1920x1080-full-hd-footage_xyvpindv__F0000.png');
 background-size: contain;
+font-family: 'Universe.ttf';
+}
+.header {
+  font-stretch: semi-expanded;
 }
